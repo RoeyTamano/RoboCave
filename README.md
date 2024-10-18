@@ -17,6 +17,10 @@ The RoboCave project is designed to create a robotic vehicle capable of gatherin
 - **PWM Pins**: For controlling motor speed via Pulse Width Modulation.
 - **Connection Pins**: GPIO pins for connecting sensors and motors.
 
+### ❗The picture doesn't show what the robot looks like now, it's an old picture from when it didn't have all the sensors and the design is different without a cover for the robot.
+![image](https://github.com/user-attachments/assets/85004705-0c19-4549-bb4c-184152e27d57) 
+
+
 ## Software Components
 - **MicroPython**: The firmware running on the microcontroller.
 - **Libraries**:
@@ -30,6 +34,9 @@ The RoboCave project is designed to create a robotic vehicle capable of gatherin
 - **Web Interface**: 
   - Displays real-time sensor data (temperature, humidity, pressure, gas concentrations, and distance).
   - Provides control buttons for motor actions (forward, backward, left, right, stop) 🚦.
+
+  ![image](https://github.com/user-attachments/assets/3a755f92-2872-4b72-9903-8553e4b103b5)
+
 - **Data Fetching**: JavaScript is used to periodically fetch sensor data from the server and update the webpage without refreshing 🔄.
 - **Distance Measurement**: The robot can measure the distance to obstacles using an ultrasonic sensor 📏.
 
@@ -52,5 +59,4 @@ The RoboCave project is designed to create a robotic vehicle capable of gatherin
 ## Conclusion
 The RoboCave project combines hardware and software to create a functional robot capable of navigating and monitoring environmental conditions 🛰️. This project serves as a foundation for further enhancements, such as adding more sensors, improving user interface design, and enhancing the robot's navigation capabilities.
 
-## Images
 
