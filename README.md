@@ -17,7 +17,7 @@ The RoboCave project is designed to create a robotic vehicle capable of gatherin
 - **PWM Pins**: For controlling motor speed via Pulse Width Modulation.
 - **Connection Pins**: GPIO pins for connecting sensors and motors.
 
-### ❗The picture doesn't show what the robot looks like now, it's an old picture from when it didn't have all the sensors and the design is different without a cover for the robot.
+### ❗The picture doesn't show what the robot looks like now, it's an old picture from the start of the project when it didn't have all the sensors and the design is different without a cover for the robot.
 ![image](https://github.com/user-attachments/assets/85004705-0c19-4549-bb4c-184152e27d57) 
 
 
