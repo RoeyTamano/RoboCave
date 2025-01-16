@@ -1,7 +1,7 @@
 # 🤖 RoboCave Project
 
 ## Overview
-This is a school project by me and my friend.
+This is a school project created by me and my friend.
 The RoboCave project is designed to create a robotic vehicle capable of gathering and transmitting information about environmental conditions 🌍, including air quality and distance measurements. The robot can be controlled via a web interface 🖥️, providing real-time data and control options.
 
 ## Hardware Components
